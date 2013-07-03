@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+	<book id="1">
+		<shortname>en</shortname>
+		<name>Engelsk</name>
+		<gddfile>EngelskOrdbog.gdd</gddfile>
+		<datfile>EngelskOrdbog.dat</datfile>
+		<doubflag>3</doubflag>
+		<listname>Engelsk</listname>
+	</book>
+
+	<book id="2">
+		<shortname>de</shortname>
+		<name>Tysk</name>
+		<gddfile>TyskOrdbog.gdd</gddfile>
+		<datfile>TyskOrdbog.dat</datfile>
+		<doubflag>3</doubflag>
+		<listname>Tysk</listname>
+	</book>
+
+	<book id="3">
+		<shortname>fr</shortname>
+		<name>Fransk</name>
+		<gddfile>FranskOrdbog.gdd</gddfile>
+		<datfile>FranskOrdbog.dat</datfile>
+		<doubflag>3</doubflag>
+		<listname>Fransk</listname>
+	</book>
+
+	<book id="4">
+		<shortname>es</shortname>
+		<name>Spansk</name>
+		<gddfile>SpanskOrdbog.gdd</gddfile>
+		<datfile>SpanskOrdbog.dat</datfile>
+		<doubflag>3</doubflag>
+		<listname>Spansk</listname>
+	</book>
+
+	<book id="5">
+		<shortname>it</shortname>
+		<name>Italiensk</name>
+		<gddfile>ItalienskDownload.gdd</gddfile>
+		<datfile>ItalienskDownload.dat</datfile>
+		<doubflag>2</doubflag>
+		<listname>Italiensk</listname>
+	</book>
+
+	<book id="6">
+		<shortname>se</shortname>
+		<name>Svensk</name>
+		<gddfile>SvenskOrdbog.gdd</gddfile>
+		<datfile>SvenskOrdbog.dat</datfile>
+		<doubflag>3</doubflag>
+		<listname>Svensk</listname>
+	</book>
+
+	<book id="7">
+		<shortname>no</shortname>
+		<name>Norsk</name>
+		<gddfile>NorskDownload.gdd</gddfile>
+		<datfile>NorskDownload.dat</datfile>
+		<doubflag>2</doubflag>
+		<listname>Norsk</listname>
+	</book>
+
+	<book id="8">
+		<shortname>enfag</shortname>
+		<name>Engelsk (Fag/Teknik)</name>
+		<gddfile>FagordbogEngelskDownload.gdd</gddfile>
+		<datfile>FagordbogEngelskDownload.dat</datfile>
+		<doubflag>2</doubflag>
+		<listname>Eng(fag/tekn)</listname>
+	</book>
+
+	<book id="9">
+		<shortname>daen</shortname>
+		<name>Stor Dansk-Engelsk</name>
+		<gddfile>StorDanskEngelskDownload.gdd</gddfile>
+		<datfile>StorDanskEngelskDownload.dat</datfile>
+		<doubflag>0</doubflag>
+		<listname>Stor da-en</listname>
+	</book>
+
+	<book id="10">
+		<shortname>enda</shortname>
+		<name>Stor Engelsk-Dansk</name>
+		<gddfile>StorEngelskDanskDownload.gdd</gddfile>
+		<datfile>StorEngelskDanskDownload.dat</datfile>
+		<doubflag>0</doubflag>
+		<listname>Stor en-da</listname>
+	</book>
+
+	<book id="11">
+		<shortname>ret</shortname>
+		<name>Retskrivning</name>
+		<gddfile>RetskrivningsordbogDownload.gdd</gddfile>
+		<datfile>RetskrivningsordbogDownload.dat</datfile>
+		<doubflag>0</doubflag>
+		<listname>Retskrivn</listname>
+	</book>
+
+	<book id="12">
+		<shortname>frem</shortname>
+		<name>Fremmedord</name>
+		<gddfile>DanskFremmedordbogDownload.gdd</gddfile>
+		<datfile>DanskFremmedordbogDownload.dat</datfile>
+		<doubflag>0</doubflag>
+		<listname>Fremmed</listname>
+	</book>
+
+	<book id="13">
+		<shortname>da</shortname>
+		<name>Dansk</name>
+		<gddfile>DanskDownload.gdd</gddfile>
+		<datfile>DanskDownload.dat</datfile>
+		<doubflag>0</doubflag>
+		<listname>Dansk</listname>
+	</book>
+
+	<book id="14">
+		<shortname>syn</shortname>
+		<name>Synonymer</name>
+		<gddfile>SynonymordbogDownload.gdd</gddfile>
+		<datfile>SynonymordbogDownload.dat</datfile>
+		<doubflag>0</doubflag>
+		<listname>Synon</listname>
+	</book>
+</books>

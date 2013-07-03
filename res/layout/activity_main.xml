@@ -1,0 +1,113 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/src_txt_widget"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:ems="10"
+            android:hint="@string/srch_txt_hint"
+            android:inputType="text"
+            android:textSize="16sp" >
+
+            <requestFocus />
+        </EditText>
+
+        <Spinner
+            android:id="@+id/select_lang"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3" />
+
+        <Button
+            android:id="@+id/src_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="@string/srch_button_txt" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <CheckBox
+            android:id="@+id/checkBox_fromdan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:layout_weight="1"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:id="@+id/imageView_fromdan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical|fill_horizontal"
+            android:layout_margin="0dp"
+            android:layout_weight="2"
+            android:contentDescription="@string/flag_billede_fra_dansk"
+            android:scaleType="fitStart" />
+
+        <CheckBox
+            android:id="@+id/checkBox_todan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:layout_weight="1"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:id="@+id/imageView_todan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical|fill_horizontal"
+            android:layout_weight="2"
+            android:contentDescription="@string/flag_billede_til_dansk"
+            android:scaleType="fitStart" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton_eks"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:textAppearance="?android:attr/textAppearanceSmallInverse"
+            android:textOff="@string/eks_button_txt"
+            android:textOn="@string/eks_button_txt"
+            android:textSize="12sp" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton_rev"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:textOff="@string/rev_button_txt"
+            android:textOn="@string/rev_button_txt"
+            android:textSize="12sp" />
+
+    </TableRow>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <WebView
+            android:id="@+id/webView_src_result"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fitsSystemWindows="true"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+</TableLayout>

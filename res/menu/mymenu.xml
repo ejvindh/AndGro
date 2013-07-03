@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/find_dict" android:enabled="true" android:title="@string/choose_dict" android:visible="true"></item>
+    <item android:id="@+id/stay_on_setting" android:visible="true" android:checkable="true" android:enabled="true" android:title="@string/fasthold_sk_rm_t_ndt"></item>
+    
+
+</menu>
