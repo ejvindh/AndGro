@@ -34,6 +34,9 @@ Den oprindelige reader, lavet af Athas-crew'et (Python): https://github.com/Atha
 
 Udviklings-linie:
 
+v1.3: August 2022:
+- Bugfix: Indført ordentligt layout for Landscape-devices
+
 v1.2: Marts 2019:
 - Bugfix: Havde glemt at 'ä' som internationalt tegn
 - Bedre håndtering af permissions (for at tage højde for Android 6.0+) 
