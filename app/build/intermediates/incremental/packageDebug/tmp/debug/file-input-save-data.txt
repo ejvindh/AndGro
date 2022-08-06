@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Sun Mar 31 15:55:38 CEST 2019
-1.base=/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/transforms/dexMerger/debug/0
+#Mon Dec 07 19:35:11 CET 2020
+1.base=/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/dex/debug/mergeExtDexDebug/out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/transforms/dexMerger/debug/1
+0.base=/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
 1.path=classes.dex

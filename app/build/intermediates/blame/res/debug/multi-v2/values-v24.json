@@ -4,7 +4,7 @@
             "outputFile": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/values-v24/values-v24.xml",
+                    "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

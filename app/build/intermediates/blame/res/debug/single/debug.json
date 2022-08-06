@@ -1,27 +1,27 @@
 [
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_media_cancel_action.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_template_media.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_media_action.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_dait.png.flat",
@@ -33,15 +33,15 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_template_lines_media.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_daes.png.flat",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/layout/notification_template_part_time.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
@@ -61,11 +61,11 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable/notification_bg.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_enda.png.flat",
@@ -93,7 +93,7 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_template_big_media.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_daenfag.png.flat",
@@ -101,11 +101,11 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_daenda.png.flat",
@@ -125,11 +125,11 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/layout-v21/notification_action.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_dade.png.flat",
@@ -145,7 +145,7 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_enfagda.png.flat",
@@ -157,7 +157,7 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_dafr.png.flat",
@@ -165,7 +165,7 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_activity_browse_files.xml.flat",
@@ -173,15 +173,15 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-v21/notification_action_background.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_template_media_custom.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_dafrem.png.flat",
@@ -193,7 +193,7 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_row.xml.flat",
@@ -205,11 +205,15 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout-land_activity_main.xml.flat",
+        "source": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/res/layout-land/activity_main.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable/notification_icon_background.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_esda.png.flat",
@@ -233,7 +237,7 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable/notification_tile_bg.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi_daret.png.flat",
@@ -241,7 +245,7 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_template_big_media_narrow.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
@@ -249,30 +253,30 @@
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_template_big_media_custom.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/layout/notification_template_part_chronometer.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f72675c81948149d15ca38971e30e7f1/res/layout/notification_template_big_media_narrow_custom.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable/notification_bg_low.xml"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     }
 ]

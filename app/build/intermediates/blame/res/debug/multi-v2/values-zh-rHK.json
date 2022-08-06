@@ -4,7 +4,7 @@
             "outputFile": "/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/723c1532953950abf3efcaa5c9e7e259/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "/home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/res/values-zh-rHK/values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
