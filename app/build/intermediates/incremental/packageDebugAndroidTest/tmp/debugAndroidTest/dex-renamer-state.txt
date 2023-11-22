@@ -1,0 +1,7 @@
+#Tue Nov 21 21:01:29 CET 2023
+base.0=/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/7/classes.dex
+path.0=0/classes.dex
+path.1=7/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

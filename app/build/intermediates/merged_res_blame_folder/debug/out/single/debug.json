@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_daenda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/daenda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_noda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/noda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/layout_activity_main.xml.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dafrem.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dafrem.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dade.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dade.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_daes.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/daes.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_frda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/frda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_itda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/itda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/layout_spinner_item.xml.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dafr.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dafr.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_daen.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/daen.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dasyn.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dasyn.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/layout_row.xml.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/layout/row.xml"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dadaen.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dadaen.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_enda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/enda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/menu_browse_files.xml.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/menu/browse_files.xml"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/layout-land_activity_main.xml.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/raw_books.xml.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/raw/books.xml"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dano.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dano.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/menu_mymenu.xml.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/menu/mymenu.xml"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_daenfag.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/daenfag.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dada.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dada.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_seda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/seda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dait.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dait.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_esda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/esda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_daret.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/daret.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-ldpi_ic_launcer.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-ldpi/ic_launcer.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/layout_activity_browse_files.xml.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/layout/activity_browse_files.xml"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_enfagda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/enfagda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_deda.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/deda.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-hdpi_dase.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-hdpi/dase.png"
+    },
+    {
+        "merged": "com.ejvindh.andgro.app-merged_res-7:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.ejvindh.andgro.app-main-9:/drawable-xhdpi/ic_launcher.png"
+    }
+]

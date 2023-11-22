@@ -1,0 +1,10 @@
+com.ejvindh.andgro.app-support-media-compat-26.1.0-0 /home/eh/.gradle/caches/transforms-3/433f44a70992e926436433ee0a31520a/transformed/support-media-compat-26.1.0/res
+com.ejvindh.andgro.app-support-compat-26.1.0-1 /home/eh/.gradle/caches/transforms-3/95c05dda8e27899b4eeb823496771087/transformed/support-compat-26.1.0/res
+com.ejvindh.andgro.app-pngs-2 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/generated/res/pngs/debug
+com.ejvindh.andgro.app-resValues-3 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/generated/res/resValues/debug
+com.ejvindh.andgro.app-rs-4 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/generated/res/rs/debug
+com.ejvindh.andgro.app-mergeDebugResources-5 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.ejvindh.andgro.app-mergeDebugResources-6 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.ejvindh.andgro.app-merged_res-7 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/merged_res/debug
+com.ejvindh.andgro.app-debug-8 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/debug/res
+com.ejvindh.andgro.app-main-9 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/res

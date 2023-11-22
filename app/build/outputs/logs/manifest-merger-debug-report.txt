@@ -1,111 +1,111 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-33:12
-MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/26ed66200ee13797585c718ec1a980b2/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/133367ed2f76502cb0b8f4c786035d3f/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d9c7357657404b6c93deaf3566c2eee/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2a516c7d8bd89a65cc6fb6e410b35741/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/433f44a70992e926436433ee0a31520a/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-3/9d90af4cbf130df7d3db26e8745e7d9d/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-3/e085d2c3f2181354c1a311514ac350d1/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-3/85f20f21bf7d1985dd3e96b0b50adb0c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/95c05dda8e27899b4eeb823496771087/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-3/f048edf5609ca41b9dbcb56a044bf17b/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:5:5-31
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:4:5-30
 		INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 		INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:4:5-28
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:3:5-28
 		INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 		INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:8:5-81
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:7:22-78
 application
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:10:5-31:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/26ed66200ee13797585c718ec1a980b2/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/26ed66200ee13797585c718ec1a980b2/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/133367ed2f76502cb0b8f4c786035d3f/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/133367ed2f76502cb0b8f4c786035d3f/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d9c7357657404b6c93deaf3566c2eee/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d9c7357657404b6c93deaf3566c2eee/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2a516c7d8bd89a65cc6fb6e410b35741/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2a516c7d8bd89a65cc6fb6e410b35741/AndroidManifest.xml:24:5-28:19
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:9:5-30:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/433f44a70992e926436433ee0a31520a/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/433f44a70992e926436433ee0a31520a/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-3/9d90af4cbf130df7d3db26e8745e7d9d/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-3/9d90af4cbf130df7d3db26e8745e7d9d/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-3/e085d2c3f2181354c1a311514ac350d1/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-3/e085d2c3f2181354c1a311514ac350d1/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-3/85f20f21bf7d1985dd3e96b0b50adb0c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-3/85f20f21bf7d1985dd3e96b0b50adb0c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/95c05dda8e27899b4eeb823496771087/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/95c05dda8e27899b4eeb823496771087/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-3/f048edf5609ca41b9dbcb56a044bf17b/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-3/f048edf5609ca41b9dbcb56a044bf17b/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:12:9-45
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:11:9-45
 	android:allowBackup
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.ejvindh.andgro.MainActivity
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:15:9-23:20
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:14:9-22:20
 	android:exported
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:16:13-59
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:15:13-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:20:27-74
 activity#com.ejvindh.andgro.BrowseFiles
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:24:9-30:20
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:23:9-29:20
 	android:label
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:26:13-64
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:25:13-64
 	android:name
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:25:13-58
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:24:13-58
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:27:13-29:67
+ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:26:13-28:67
 	android:value
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:29:17-64
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:28:17-64
 	android:name
-		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:28:17-63
+		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml:27:17-63
 uses-sdk
 INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/26ed66200ee13797585c718ec1a980b2/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/26ed66200ee13797585c718ec1a980b2/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/133367ed2f76502cb0b8f4c786035d3f/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/133367ed2f76502cb0b8f4c786035d3f/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d9c7357657404b6c93deaf3566c2eee/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d9c7357657404b6c93deaf3566c2eee/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2a516c7d8bd89a65cc6fb6e410b35741/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2a516c7d8bd89a65cc6fb6e410b35741/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/433f44a70992e926436433ee0a31520a/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/433f44a70992e926436433ee0a31520a/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-3/9d90af4cbf130df7d3db26e8745e7d9d/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-3/9d90af4cbf130df7d3db26e8745e7d9d/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-3/e085d2c3f2181354c1a311514ac350d1/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-3/e085d2c3f2181354c1a311514ac350d1/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-3/85f20f21bf7d1985dd3e96b0b50adb0c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-3/85f20f21bf7d1985dd3e96b0b50adb0c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/95c05dda8e27899b4eeb823496771087/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/95c05dda8e27899b4eeb823496771087/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-3/f048edf5609ca41b9dbcb56a044bf17b/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-3/f048edf5609ca41b9dbcb56a044bf17b/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
@@ -115,24 +115,24 @@ INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGr
 		ADDED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 		INJECTED from /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2cfcd45d9552ef05a6a88691e1df4c00/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/26ed66200ee13797585c718ec1a980b2/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/26ed66200ee13797585c718ec1a980b2/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/133367ed2f76502cb0b8f4c786035d3f/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/133367ed2f76502cb0b8f4c786035d3f/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d9c7357657404b6c93deaf3566c2eee/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d9c7357657404b6c93deaf3566c2eee/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eab9f58acba7ce0c407d895b46d42090/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/433f44a70992e926436433ee0a31520a/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/433f44a70992e926436433ee0a31520a/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-3/9d90af4cbf130df7d3db26e8745e7d9d/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/eh/.gradle/caches/transforms-3/9d90af4cbf130df7d3db26e8745e7d9d/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-3/e085d2c3f2181354c1a311514ac350d1/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/eh/.gradle/caches/transforms-3/e085d2c3f2181354c1a311514ac350d1/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-3/85f20f21bf7d1985dd3e96b0b50adb0c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/eh/.gradle/caches/transforms-3/85f20f21bf7d1985dd3e96b0b50adb0c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/95c05dda8e27899b4eeb823496771087/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/eh/.gradle/caches/transforms-3/95c05dda8e27899b4eeb823496771087/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4207d5766552f7c39e5dbae5655ea208/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:support-v4:26.1.0] /home/eh/.gradle/caches/transforms-3/d8896d78899934b08a92023e4545d283/transformed/support-v4-26.1.0/AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2a516c7d8bd89a65cc6fb6e410b35741/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-3/f048edf5609ca41b9dbcb56a044bf17b/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2a516c7d8bd89a65cc6fb6e410b35741/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-3/f048edf5609ca41b9dbcb56a044bf17b/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2a516c7d8bd89a65cc6fb6e410b35741/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/eh/.gradle/caches/transforms-3/f048edf5609ca41b9dbcb56a044bf17b/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58

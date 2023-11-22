@@ -1,0 +1,5 @@
+com.ejvindh.andgro.test.app-androidTest-0 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/generated/res/resValues/androidTest/debug
+com.ejvindh.andgro.test.app-androidTest-1 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/generated/res/rs/androidTest/debug
+com.ejvindh.andgro.test.app-mergeDebugAndroidTestResources-2 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.ejvindh.andgro.test.app-mergeDebugAndroidTestResources-3 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.ejvindh.andgro.test.app-merged_res-4 /home/eh/Arbejder/Dropbox/Prog_settings/Android/Programmere/AndrGro2/AS/app/build/intermediates/merged_res/debugAndroidTest
